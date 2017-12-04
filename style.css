@@ -1,0 +1,28 @@
+
+
+.leaflet-popup-content{
+  color: gold;
+  font-family: 'Berkshire Swash', cursive;
+  font-size: 2em;
+  font-weight: bold;
+  text-shadow: 1px 1px green,
+               2px 2px purple;
+}
+
+.page-heading h1 {
+  color: gold;
+  font-family: 'Berkshire Swash', cursive;
+  font-size: 5em;
+  text-align:center;
+  text-shadow:2px 2px green,
+              3px 3px purple;
+}
+
+footer {
+  text-align: center;
+}
+
+p {
+  color: purple;
+  font-family: 'Montserrat', sans-serif;
+}

@@ -1,0 +1,25 @@
+<link rel="stylesheet" href="style.css">
+<link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Patrick+Hand" rel="stylesheet">
+
+
+    border: 6px outset purple;
+    box-shadow: 2px 2px 15px #000;
+    margin-bottom: 2%;
+    margin-top: 2%;
+    position : relative;
+    width : 90.0%;
+    height: 100.0%;
+    left: 5.0%;
+    top: 0.0%;
+    
+
+
+<div class="page-heading">
+  <h1>My New Orleans</h1>
+</div>
+
+
+<footer>
+  <p>A Geocoding project by Emily Martens<br>Powered by JavaScript and Python</p>
+</foot>

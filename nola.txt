@@ -1,0 +1,26 @@
+ID,NAME,LAT,LONG,ICON
+1,Cafe Du Monde,29.9574689,-90.0640698,coffee
+2,Audubon Aquarium,29.9510656,-90.0834329,anchor
+3,The Ferry,29.9499936,-90.0643677,ship
+4,Port of Call,29.964414,-90.0639407,cutlery
+5,Mr. B's,29.9542787,-90.0704197,diamond
+6,Edna Karr,29.9201629,-90.0067769,mortar-board
+7,Audubon Zoo,29.9226689,-90.132501,paw
+8,Mercedez Benz Superdome,29.9510656, -90.0834329,star
+9,Half Moon,29.932153,-90.0764233,moon-o
+11,Our Apartment,29.9528487,-90.0545105,home
+12,New Orleans Museum of Art,29.986332,-90.0954407,camera-retro
+13,Feet First,29.9206986,-90.1007497,shopping-bag
+14,Sake Cafe,29.9256386,-90.0852937,cutlery
+15,Old Point,29.9549968,-90.052392,beer
+16,Ochsner Baptist,29.9372165,-90.1061625,heartbeat
+17,Company Burger,29.9347256,-90.1079317,cutlery
+18,Sylvain,29.957119,-90.0663753,heart-o
+19,Yogurtland,29.9249216,-90.1105047,smile-o
+20,Romula's Corner,29.9295292,-90.0701853,cab
+21,The Delachaise,29.9275332,-90.0948084,glass
+22,Rum House,29.9240583,-90.0882513,cutlery
+23,Dance Quarter,29.9302578,-90.0929293,music
+24,Xavier University,29.9638676,-90.1092727,university
+25,Our Rouses,29.9186124,-90.0527694,shopping-cart
+26,Tony Mandina's,29.9195147,-90.0473468,heart
